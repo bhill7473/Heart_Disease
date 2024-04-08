@@ -1,4 +1,4 @@
-# Heart Disease Prediction with Machine Learning
+# Cardiovascular Disease Prediction with Machine Learning
 
 This project explores a dataset containing health-related features of patients diagnosed with heart disease. The target variable, is an integer ranging from 0 (no heart disease) to 4 (highest severity), indicating the presence and level of the disease. The primary objective is to develop a machine learning model capable of predicting the level of heart disease based on the provided features.
 
